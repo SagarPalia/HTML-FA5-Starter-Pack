@@ -1,0 +1,20 @@
+{
+  "name": "html-fa5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Sagar Palia",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-dart-sass": "^1.0.2",
+    "browser-sync": "^2.26.14",
+    "gulp-autoprefixer": "^7.0.1"
+  }
+}
